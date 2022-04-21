@@ -2,13 +2,13 @@
 
 動画からサムネイルを生成する処理
 
-# Install
+## Install
 
 ```
 $ yarn
 ```
 
-# Run
+## Run
 
 ```
 $ yarn thumbgen {動画のURL}
